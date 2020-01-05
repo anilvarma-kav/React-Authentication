@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4f03a9c-9ed3-457a-94c4-b4adf32981b9" name="Default Changelist" comment="" />
+    <list default="true" id="d4f03a9c-9ed3-457a-94c4-b4adf32981b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UserSignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UserSignUp.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Vzeen75C1pP798wGwBhegrwrCU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,11 +24,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="ServiceViewManager">
@@ -44,11 +57,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578260448428</updated>
-      <workItem from="1578260450723" duration="796000" />
+      <workItem from="1578260450723" duration="2477000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="251" key="GridCell.Tab.0.bottom" timestamp="1578261662024">
+      <screen x="1440" y="-21" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="251" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.-21.1920.1057@1440.-21.1920.1057" timestamp="1578261662024" />
+    <state width="1899" height="251" key="GridCell.Tab.0.center" timestamp="1578261662023">
+      <screen x="1440" y="-21" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="251" key="GridCell.Tab.0.center/0.23.1440.825/1440.-21.1920.1057@1440.-21.1920.1057" timestamp="1578261662023" />
+    <state width="1899" height="251" key="GridCell.Tab.0.left" timestamp="1578261662022">
+      <screen x="1440" y="-21" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="251" key="GridCell.Tab.0.left/0.23.1440.825/1440.-21.1920.1057@1440.-21.1920.1057" timestamp="1578261662022" />
+    <state width="1899" height="251" key="GridCell.Tab.0.right" timestamp="1578261662024">
+      <screen x="1440" y="-21" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="251" key="GridCell.Tab.0.right/0.23.1440.825/1440.-21.1920.1057@1440.-21.1920.1057" timestamp="1578261662024" />
   </component>
 </project>
